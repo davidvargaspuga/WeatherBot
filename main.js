@@ -41,7 +41,6 @@ client.on('message', message => {
                 const zip = second;
                 const appid = keys.appid;
                 const apiURL = "https://api.openweathermap.org/data/2.5/weather?zip=" + zip + ",us&units=imperial&appid=" +appid;
-                // const weather = searchWeather(zip);
                 console.log(apiURL);
                 
                 // makes API call for weather by zip code
