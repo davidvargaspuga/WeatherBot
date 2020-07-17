@@ -19,6 +19,7 @@ To learn about how to create Discord bots, I created WeatherBot. WeatherBot is a
 
 * [Node.js](https://nodejs.org/en/)
 * [discord.js](https://discord.js.org/#/)
+* [OpenWeather API](https://openweathermap.org/api)
 
 
 
