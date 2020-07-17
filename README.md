@@ -1,12 +1,11 @@
 # WeatherBot
 
-To learn about how to create Discord bots, I created WeatherBot. WeatherBot is a simple Discord bot that provides the current weather in a zip code provided by the user.
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+
 
 
 <!-- ABOUT THE PROJECT -->
